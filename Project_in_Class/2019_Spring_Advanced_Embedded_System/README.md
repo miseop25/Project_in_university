@@ -30,4 +30,4 @@
 
 # 동작 동영상
 
-[![Video Label](https://youtu.be/Uoa5-osGF9A/0.jpg)](https://youtu.be/Uoa5-osGF9A=0s) 
+[![Audi R8](http://img.youtube.com/vi/KOxbO0EI4MA/0.jpg)](https://www.youtube.com/watch?v=KOxbO0EI4MA "Audi R8")
