@@ -1,4 +1,4 @@
-# Advanced_Embedded_System 주차관리 시스템(네차 찾기 힘들었조)
+# Advanced_Embedded_System 주차관리 시스템
 
 
 
@@ -30,4 +30,4 @@
 
 # 동작 동영상
 
-<iframe width="640" height="360" src="https://www.youtube.com/embed/6Az2cNU7gUw" frameborder="0" gesture="media" allowfullscreen=""></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Uoa5-osGF9A" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
