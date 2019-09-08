@@ -29,5 +29,6 @@
 ![스크린샷 2019-09-08 오후 8 58 56](https://user-images.githubusercontent.com/44546283/64487885-807d0c80-d27b-11e9-9161-583bef3b4ff7.png)
 
 # 동작 동영상
+https://youtu.be/Uoa5-osGF9A
 
-[![Audi R8](http://img.youtube.com/vi/KOxbO0EI4MA/0.jpg)](https://www.youtube.com/watch?v=KOxbO0EI4MA "Audi R8")
+
