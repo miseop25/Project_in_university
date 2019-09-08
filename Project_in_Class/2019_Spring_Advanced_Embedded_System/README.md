@@ -30,4 +30,4 @@
 
 # 동작 동영상
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Uoa5-osGF9A" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![Video Label](https://youtu.be/Uoa5-osGF9A/0.jpg)](https://youtu.be/Uoa5-osGF9A=0s) 
