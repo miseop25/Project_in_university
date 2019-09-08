@@ -8,6 +8,6 @@
 - 서버로 자신이 가지고 있는 파일을 올릴 수 있다. 
 - 파일 리스트에 있는 파일 중 하나를 선택해서 다운로드를 진행 할 수 있다. 
 
-작동에 대한 상세한 Flow Chart는 다음과 같이 나타내 지 수 있다. 
+작동에 대한 상세한 Flow Chart는 다음과 같이 표현된다.
 
 ![flow chart](https://user-images.githubusercontent.com/44546283/64484998-4ef14a80-d255-11e9-9d7b-a7a0a33e3046.jpeg)
